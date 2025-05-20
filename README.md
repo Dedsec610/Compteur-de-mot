@@ -1,1 +1,1 @@
-l'exercice 3 de java porte sur lr compteur de mot. le code compte les mots d'un fichier "TestExercice3.txt" pour nous afficher le nombre total de son contenu.
+l'exercice 3 de java porte sur le compteur de mot. le code compte les mots du fichier "TestExercice3.txt" pour nous afficher le nombre total de mots que contient le fichier.
